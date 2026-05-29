@@ -1,10 +1,66 @@
-# AI-Powered-Dark-Store-Demand-Intelligence-System
+# AI-Powered Dark Store Demand Intelligence System
 
+## 📌 Project Overview
 
-• Built an operational analytics dashboard using SQL and Power BI to analyze quick commerce order data across multiple delivery areas.
+This project analyzes quick commerce dark store operations using SQL and Power BI. The objective is to identify demand patterns, stock availability issues, delivery inefficiencies, and generate AI-powered business recommendations
 
-• Performed demand analysis, stockout tracking, and delivery performance evaluation using SQL queries and interactive visualizations.
+---
 
-• Integrated AI-generated business insights and recommendations to improve inventory planning and operational decision-making.
+## 🚀 Features
 
-• Developed KPI dashboards for top-selling products, high-demand areas, stock availability, and delivery efficiency.
+* SQL-based operational analysis
+* Power BI interactive dashboard
+* Top-selling product analysis
+* High-demand area identification
+* Stock availability tracking
+* Delivery performance analytics
+* AI-generated business insights
+
+---
+
+## 🛠️ Tools Used
+
+* SQL (MySQL)
+* Power BI
+* Excel
+* ChatGPT (AI Insights)
+
+---
+
+## 📊 Dashboard Insights
+
+* Peak demand products and categories
+* Area-wise order analysis
+* Delivery performance trends
+* Stockout analysis
+* AI-powered operational recommendations
+
+---
+
+## 📂 Project Structure
+
+* Dataset/
+* SQL/
+* Dashboard/
+* Screenshots/
+* Documentation/
+
+---
+
+## 💼 Business Impact
+
+The project demonstrates how data analytics and AI-driven recommendations can improve inventory planning, operational efficiency, and delivery performance in quick commerce businesses.
+
+---
+
+## 📸 Dashboard Preview
+
+(Add your dashboard screenshot here)
+
+---
+
+## 👨‍💻 Author
+
+Yash Tyagi
+Aspiring Data Analyst
+
