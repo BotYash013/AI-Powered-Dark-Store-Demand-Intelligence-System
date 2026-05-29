@@ -1,0 +1,501 @@
+﻿order_id,date,time,area,product,category,quantity,price,delivery_time_min,stock_available
+1001,29-May,09:30,shastri nagar,milk,dairy,1,20,12,yes
+1002,29-May,10:30,jagriti vihar,bread,bakery,2,30,10,no
+1003,30-May,11:30,modipuram,egg,dairy,3,40,18,yes
+1004,30-May,12:30,ganga nagar,chips,snacks,4,50,14,no
+1005,31-May,13:30,saket,cold drinks,beverage,5,60,11,yes
+1006,31-May,14:30,shastri nagar,rice,grocery,1,20,12,no
+1007,29-May,15:30,jagriti vihar,biscuit,snacks,2,30,10,yes
+1008,29-May,16:30,modipuram,juice,beverage,3,40,18,no
+1009,30-May,17:30,ganga nagar,butter,dairy,4,50,14,yes
+1010,30-May,18:30,saket,maggie,instant food,5,60,11,no
+1011,31-May,19:30,shastri nagar,milk,dairy,1,20,12,yes
+1012,31-May,20:30,jagriti vihar,bread,bakery,2,30,10,no
+1013,29-May,21:30,modipuram,egg,dairy,3,40,18,yes
+1014,29-May,22:30,ganga nagar,chips,snacks,4,50,14,no
+1015,30-May,23:30,saket,cold drinks,beverage,5,60,11,yes
+1016,30-May,00:30,shastri nagar,rice,grocery,1,20,12,no
+1017,31-May,01:30,jagriti vihar,biscuit,snacks,2,30,10,yes
+1018,31-May,02:30,modipuram,juice,beverage,3,40,18,no
+1019,29-May,03:30,ganga nagar,butter,dairy,4,50,14,yes
+1020,29-May,04:30,saket,maggie,instant food,5,60,11,no
+1021,30-May,05:30,shastri nagar,milk,dairy,1,20,12,yes
+1022,30-May,06:30,jagriti vihar,bread,bakery,2,30,10,no
+1023,31-May,07:30,modipuram,egg,dairy,3,40,18,yes
+1024,31-May,08:30,ganga nagar,chips,snacks,4,50,14,no
+1025,29-May,09:30,saket,cold drinks,beverage,5,60,11,yes
+1026,29-May,10:30,shastri nagar,rice,grocery,1,20,12,no
+1027,30-May,11:30,jagriti vihar,biscuit,snacks,2,30,10,yes
+1028,30-May,12:30,modipuram,juice,beverage,3,40,18,no
+1029,31-May,13:30,ganga nagar,butter,dairy,4,50,14,yes
+1030,31-May,14:30,saket,maggie,instant food,5,60,11,no
+1031,29-May,15:30,shastri nagar,milk,dairy,1,20,12,yes
+1032,29-May,16:30,jagriti vihar,bread,bakery,2,30,10,no
+1033,30-May,17:30,modipuram,egg,dairy,3,40,18,yes
+1034,30-May,18:30,ganga nagar,chips,snacks,4,50,14,no
+1035,31-May,19:30,saket,cold drinks,beverage,5,60,11,yes
+1036,31-May,20:30,shastri nagar,rice,grocery,1,20,12,no
+1037,29-May,21:30,jagriti vihar,biscuit,snacks,2,30,10,yes
+1038,29-May,22:30,modipuram,juice,beverage,3,40,18,no
+1039,30-May,23:30,ganga nagar,butter,dairy,4,50,14,yes
+1040,30-May,00:30,saket,maggie,instant food,5,60,11,no
+1041,31-May,01:30,shastri nagar,milk,dairy,1,20,12,yes
+1042,31-May,02:30,jagriti vihar,bread,bakery,2,30,10,no
+1043,29-May,03:30,modipuram,egg,dairy,3,40,18,yes
+1044,29-May,04:30,ganga nagar,chips,snacks,4,50,14,no
+1045,30-May,05:30,saket,cold drinks,beverage,5,60,11,yes
+1046,30-May,06:30,shastri nagar,rice,grocery,1,20,12,no
+1047,31-May,07:30,jagriti vihar,biscuit,snacks,2,30,10,yes
+1048,31-May,08:30,modipuram,juice,beverage,3,40,18,no
+1049,29-May,09:30,ganga nagar,butter,dairy,4,50,14,yes
+1050,29-May,10:30,saket,maggie,instant food,5,60,11,no
+1051,30-May,11:30,shastri nagar,milk,dairy,1,20,12,yes
+1052,30-May,12:30,jagriti vihar,bread,bakery,2,30,10,no
+1053,31-May,13:30,modipuram,egg,dairy,3,40,18,yes
+1054,31-May,14:30,ganga nagar,chips,snacks,4,50,14,no
+1055,29-May,15:30,saket,cold drinks,beverage,5,60,11,yes
+1056,29-May,16:30,shastri nagar,rice,grocery,1,20,12,no
+1057,30-May,17:30,jagriti vihar,biscuit,snacks,2,30,10,yes
+1058,30-May,18:30,modipuram,juice,beverage,3,40,18,no
+1059,31-May,19:30,ganga nagar,butter,dairy,4,50,14,yes
+1060,31-May,20:30,saket,maggie,instant food,5,60,11,no
+1061,29-May,21:30,shastri nagar,milk,dairy,1,20,12,yes
+1062,29-May,22:30,jagriti vihar,bread,bakery,2,30,10,no
+1063,30-May,23:30,modipuram,egg,dairy,3,40,18,yes
+1064,30-May,00:30,ganga nagar,chips,snacks,4,50,14,no
+1065,31-May,01:30,saket,cold drinks,beverage,5,60,11,yes
+1066,31-May,02:30,shastri nagar,rice,grocery,1,20,12,no
+1067,29-May,03:30,jagriti vihar,biscuit,snacks,2,30,10,yes
+1068,29-May,04:30,modipuram,juice,beverage,3,40,18,no
+1069,30-May,05:30,ganga nagar,butter,dairy,4,50,14,yes
+1070,30-May,06:30,saket,maggie,instant food,5,60,11,no
+1071,31-May,07:30,shastri nagar,milk,dairy,1,20,12,yes
+1072,31-May,08:30,jagriti vihar,bread,bakery,2,30,10,no
+1073,29-May,09:30,modipuram,egg,dairy,3,40,18,yes
+1074,29-May,10:30,ganga nagar,chips,snacks,4,50,14,no
+1075,30-May,11:30,saket,cold drinks,beverage,5,60,11,yes
+1076,30-May,12:30,shastri nagar,rice,grocery,1,20,12,no
+1077,31-May,13:30,jagriti vihar,biscuit,snacks,2,30,10,yes
+1078,31-May,14:30,modipuram,juice,beverage,3,40,18,no
+1079,29-May,15:30,ganga nagar,butter,dairy,4,50,14,yes
+1080,29-May,16:30,saket,maggie,instant food,5,60,11,no
+1081,30-May,17:30,shastri nagar,milk,dairy,1,20,12,yes
+1082,30-May,18:30,jagriti vihar,bread,bakery,2,30,10,no
+1083,31-May,19:30,modipuram,egg,dairy,3,40,18,yes
+1084,31-May,20:30,ganga nagar,chips,snacks,4,50,14,no
+1085,29-May,21:30,saket,cold drinks,beverage,5,60,11,yes
+1086,29-May,22:30,shastri nagar,rice,grocery,1,20,12,no
+1087,30-May,23:30,jagriti vihar,biscuit,snacks,2,30,10,yes
+1088,30-May,00:30,modipuram,juice,beverage,3,40,18,no
+1089,31-May,01:30,ganga nagar,butter,dairy,4,50,14,yes
+1090,31-May,02:30,saket,maggie,instant food,5,60,11,no
+1091,29-May,03:30,shastri nagar,milk,dairy,1,20,12,yes
+1092,29-May,04:30,jagriti vihar,bread,bakery,2,30,10,no
+1093,30-May,05:30,modipuram,egg,dairy,3,40,18,yes
+1094,30-May,06:30,ganga nagar,chips,snacks,4,50,14,no
+1095,31-May,07:30,saket,cold drinks,beverage,5,60,11,yes
+1096,31-May,08:30,shastri nagar,rice,grocery,1,20,12,no
+1097,29-May,09:30,jagriti vihar,biscuit,snacks,2,30,10,yes
+1098,29-May,10:30,modipuram,juice,beverage,3,40,18,no
+1099,30-May,11:30,ganga nagar,butter,dairy,4,50,14,yes
+1100,30-May,12:30,saket,maggie,instant food,5,60,11,no
+1101,31-May,13:30,shastri nagar,milk,dairy,1,20,12,yes
+1102,31-May,14:30,jagriti vihar,bread,bakery,2,30,10,no
+1103,29-May,15:30,modipuram,egg,dairy,3,40,18,yes
+1104,29-May,16:30,ganga nagar,chips,snacks,4,50,14,no
+1105,30-May,17:30,saket,cold drinks,beverage,5,60,11,yes
+1106,30-May,18:30,shastri nagar,rice,grocery,1,20,12,no
+1107,31-May,19:30,jagriti vihar,biscuit,snacks,2,30,10,yes
+1108,31-May,20:30,modipuram,juice,beverage,3,40,18,no
+1109,29-May,21:30,ganga nagar,butter,dairy,4,50,14,yes
+1110,29-May,22:30,saket,maggie,instant food,5,60,11,no
+1111,30-May,23:30,shastri nagar,milk,dairy,1,20,12,yes
+1112,30-May,00:30,jagriti vihar,bread,bakery,2,30,10,no
+1113,31-May,01:30,modipuram,egg,dairy,3,40,18,yes
+1114,31-May,02:30,ganga nagar,chips,snacks,4,50,14,no
+1115,29-May,03:30,saket,cold drinks,beverage,5,60,11,yes
+1116,29-May,04:30,shastri nagar,rice,grocery,1,20,12,no
+1117,30-May,05:30,jagriti vihar,biscuit,snacks,2,30,10,yes
+1118,30-May,06:30,modipuram,juice,beverage,3,40,18,no
+1119,31-May,07:30,ganga nagar,butter,dairy,4,50,14,yes
+1120,31-May,08:30,saket,maggie,instant food,5,60,11,no
+1121,29-May,09:30,shastri nagar,milk,dairy,1,20,12,yes
+1122,29-May,10:30,jagriti vihar,bread,bakery,2,30,10,no
+1123,30-May,11:30,modipuram,egg,dairy,3,40,18,yes
+1124,30-May,12:30,ganga nagar,chips,snacks,4,50,14,no
+1125,31-May,13:30,saket,cold drinks,beverage,5,60,11,yes
+1126,31-May,14:30,shastri nagar,rice,grocery,1,20,12,no
+1127,29-May,15:30,jagriti vihar,biscuit,snacks,2,30,10,yes
+1128,29-May,16:30,modipuram,juice,beverage,3,40,18,no
+1129,30-May,17:30,ganga nagar,butter,dairy,4,50,14,yes
+1130,30-May,18:30,saket,maggie,instant food,5,60,11,no
+1131,31-May,19:30,shastri nagar,milk,dairy,1,20,12,yes
+1132,31-May,20:30,jagriti vihar,bread,bakery,2,30,10,no
+1133,29-May,21:30,modipuram,egg,dairy,3,40,18,yes
+1134,29-May,22:30,ganga nagar,chips,snacks,4,50,14,no
+1135,30-May,23:30,saket,cold drinks,beverage,5,60,11,yes
+1136,30-May,00:30,shastri nagar,rice,grocery,1,20,12,no
+1137,31-May,01:30,jagriti vihar,biscuit,snacks,2,30,10,yes
+1138,31-May,02:30,modipuram,juice,beverage,3,40,18,no
+1139,29-May,03:30,ganga nagar,butter,dairy,4,50,14,yes
+1140,29-May,04:30,saket,maggie,instant food,5,60,11,no
+1141,30-May,05:30,shastri nagar,milk,dairy,1,20,12,yes
+1142,30-May,06:30,jagriti vihar,bread,bakery,2,30,10,no
+1143,31-May,07:30,modipuram,egg,dairy,3,40,18,yes
+1144,31-May,08:30,ganga nagar,chips,snacks,4,50,14,no
+1145,29-May,09:30,saket,cold drinks,beverage,5,60,11,yes
+1146,29-May,10:30,shastri nagar,rice,grocery,1,20,12,no
+1147,30-May,11:30,jagriti vihar,biscuit,snacks,2,30,10,yes
+1148,30-May,12:30,modipuram,juice,beverage,3,40,18,no
+1149,31-May,13:30,ganga nagar,butter,dairy,4,50,14,yes
+1150,31-May,14:30,saket,maggie,instant food,5,60,11,no
+1151,29-May,15:30,shastri nagar,milk,dairy,1,20,12,yes
+1152,29-May,16:30,jagriti vihar,bread,bakery,2,30,10,no
+1153,30-May,17:30,modipuram,egg,dairy,3,40,18,yes
+1154,30-May,18:30,ganga nagar,chips,snacks,4,50,14,no
+1155,31-May,19:30,saket,cold drinks,beverage,5,60,11,yes
+1156,31-May,20:30,shastri nagar,rice,grocery,1,20,12,no
+1157,29-May,21:30,jagriti vihar,biscuit,snacks,2,30,10,yes
+1158,29-May,22:30,modipuram,juice,beverage,3,40,18,no
+1159,30-May,23:30,ganga nagar,butter,dairy,4,50,14,yes
+1160,30-May,00:30,saket,maggie,instant food,5,60,11,no
+1161,31-May,01:30,shastri nagar,milk,dairy,1,20,12,yes
+1162,31-May,02:30,jagriti vihar,bread,bakery,2,30,10,no
+1163,29-May,03:30,modipuram,egg,dairy,3,40,18,yes
+1164,29-May,04:30,ganga nagar,chips,snacks,4,50,14,no
+1165,30-May,05:30,saket,cold drinks,beverage,5,60,11,yes
+1166,30-May,06:30,shastri nagar,rice,grocery,1,20,12,no
+1167,31-May,07:30,jagriti vihar,biscuit,snacks,2,30,10,yes
+1168,31-May,08:30,modipuram,juice,beverage,3,40,18,no
+1169,29-May,09:30,ganga nagar,butter,dairy,4,50,14,yes
+1170,29-May,10:30,saket,maggie,instant food,5,60,11,no
+1171,30-May,11:30,shastri nagar,milk,dairy,1,20,12,yes
+1172,30-May,12:30,jagriti vihar,bread,bakery,2,30,10,no
+1173,31-May,13:30,modipuram,egg,dairy,3,40,18,yes
+1174,31-May,14:30,ganga nagar,chips,snacks,4,50,14,no
+1175,29-May,15:30,saket,cold drinks,beverage,5,60,11,yes
+1176,29-May,16:30,shastri nagar,rice,grocery,1,20,12,no
+1177,30-May,17:30,jagriti vihar,biscuit,snacks,2,30,10,yes
+1178,30-May,18:30,modipuram,juice,beverage,3,40,18,no
+1179,31-May,19:30,ganga nagar,butter,dairy,4,50,14,yes
+1180,31-May,20:30,saket,maggie,instant food,5,60,11,no
+1181,29-May,21:30,shastri nagar,milk,dairy,1,20,12,yes
+1182,29-May,22:30,jagriti vihar,bread,bakery,2,30,10,no
+1183,30-May,23:30,modipuram,egg,dairy,3,40,18,yes
+1184,30-May,00:30,ganga nagar,chips,snacks,4,50,14,no
+1185,31-May,01:30,saket,cold drinks,beverage,5,60,11,yes
+1186,31-May,02:30,shastri nagar,rice,grocery,1,20,12,no
+1187,29-May,03:30,jagriti vihar,biscuit,snacks,2,30,10,yes
+1188,29-May,04:30,modipuram,juice,beverage,3,40,18,no
+1189,30-May,05:30,ganga nagar,butter,dairy,4,50,14,yes
+1190,30-May,06:30,saket,maggie,instant food,5,60,11,no
+1191,31-May,07:30,shastri nagar,milk,dairy,1,20,12,yes
+1192,31-May,08:30,jagriti vihar,bread,bakery,2,30,10,no
+1193,29-May,09:30,modipuram,egg,dairy,3,40,18,yes
+1194,29-May,10:30,ganga nagar,chips,snacks,4,50,14,no
+1195,30-May,11:30,saket,cold drinks,beverage,5,60,11,yes
+1196,30-May,12:30,shastri nagar,rice,grocery,1,20,12,no
+1197,31-May,13:30,jagriti vihar,biscuit,snacks,2,30,10,yes
+1198,31-May,14:30,modipuram,juice,beverage,3,40,18,no
+1199,29-May,15:30,ganga nagar,butter,dairy,4,50,14,yes
+1200,29-May,16:30,saket,maggie,instant food,5,60,11,no
+1201,30-May,17:30,shastri nagar,milk,dairy,1,20,12,yes
+1202,30-May,18:30,jagriti vihar,bread,bakery,2,30,10,no
+1203,31-May,19:30,modipuram,egg,dairy,3,40,18,yes
+1204,31-May,20:30,ganga nagar,chips,snacks,4,50,14,no
+1205,29-May,21:30,saket,cold drinks,beverage,5,60,11,yes
+1206,29-May,22:30,shastri nagar,rice,grocery,1,20,12,no
+1207,30-May,23:30,jagriti vihar,biscuit,snacks,2,30,10,yes
+1208,30-May,00:30,modipuram,juice,beverage,3,40,18,no
+1209,31-May,01:30,ganga nagar,butter,dairy,4,50,14,yes
+1210,31-May,02:30,saket,maggie,instant food,5,60,11,no
+1211,29-May,03:30,shastri nagar,milk,dairy,1,20,12,yes
+1212,29-May,04:30,jagriti vihar,bread,bakery,2,30,10,no
+1213,30-May,05:30,modipuram,egg,dairy,3,40,18,yes
+1214,30-May,06:30,ganga nagar,chips,snacks,4,50,14,no
+1215,31-May,07:30,saket,cold drinks,beverage,5,60,11,yes
+1216,31-May,08:30,shastri nagar,rice,grocery,1,20,12,no
+1217,29-May,09:30,jagriti vihar,biscuit,snacks,2,30,10,yes
+1218,29-May,10:30,modipuram,juice,beverage,3,40,18,no
+1219,30-May,11:30,ganga nagar,butter,dairy,4,50,14,yes
+1220,30-May,12:30,saket,maggie,instant food,5,60,11,no
+1221,31-May,13:30,shastri nagar,milk,dairy,1,20,12,yes
+1222,31-May,14:30,jagriti vihar,bread,bakery,2,30,10,no
+1223,29-May,15:30,modipuram,egg,dairy,3,40,18,yes
+1224,29-May,16:30,ganga nagar,chips,snacks,4,50,14,no
+1225,30-May,17:30,saket,cold drinks,beverage,5,60,11,yes
+1226,30-May,18:30,shastri nagar,rice,grocery,1,20,12,no
+1227,31-May,19:30,jagriti vihar,biscuit,snacks,2,30,10,yes
+1228,31-May,20:30,modipuram,juice,beverage,3,40,18,no
+1229,29-May,21:30,ganga nagar,butter,dairy,4,50,14,yes
+1230,29-May,22:30,saket,maggie,instant food,5,60,11,no
+1231,30-May,23:30,shastri nagar,milk,dairy,1,20,12,yes
+1232,30-May,00:30,jagriti vihar,bread,bakery,2,30,10,no
+1233,31-May,01:30,modipuram,egg,dairy,3,40,18,yes
+1234,31-May,02:30,ganga nagar,chips,snacks,4,50,14,no
+1235,29-May,03:30,saket,cold drinks,beverage,5,60,11,yes
+1236,29-May,04:30,shastri nagar,rice,grocery,1,20,12,no
+1237,30-May,05:30,jagriti vihar,biscuit,snacks,2,30,10,yes
+1238,30-May,06:30,modipuram,juice,beverage,3,40,18,no
+1239,31-May,07:30,ganga nagar,butter,dairy,4,50,14,yes
+1240,31-May,08:30,saket,maggie,instant food,5,60,11,no
+1241,29-May,09:30,shastri nagar,milk,dairy,1,20,12,yes
+1242,29-May,10:30,jagriti vihar,bread,bakery,2,30,10,no
+1243,30-May,11:30,modipuram,egg,dairy,3,40,18,yes
+1244,30-May,12:30,ganga nagar,chips,snacks,4,50,14,no
+1245,31-May,13:30,saket,cold drinks,beverage,5,60,11,yes
+1246,31-May,14:30,shastri nagar,rice,grocery,1,20,12,no
+1247,29-May,15:30,jagriti vihar,biscuit,snacks,2,30,10,yes
+1248,29-May,16:30,modipuram,juice,beverage,3,40,18,no
+1249,30-May,17:30,ganga nagar,butter,dairy,4,50,14,yes
+1250,30-May,18:30,saket,maggie,instant food,5,60,11,no
+1251,31-May,19:30,shastri nagar,milk,dairy,1,20,12,yes
+1252,31-May,20:30,jagriti vihar,bread,bakery,2,30,10,no
+1253,29-May,21:30,modipuram,egg,dairy,3,40,18,yes
+1254,29-May,22:30,ganga nagar,chips,snacks,4,50,14,no
+1255,30-May,23:30,saket,cold drinks,beverage,5,60,11,yes
+1256,30-May,00:30,shastri nagar,rice,grocery,1,20,12,no
+1257,31-May,01:30,jagriti vihar,biscuit,snacks,2,30,10,yes
+1258,31-May,02:30,modipuram,juice,beverage,3,40,18,no
+1259,29-May,03:30,ganga nagar,butter,dairy,4,50,14,yes
+1260,29-May,04:30,saket,maggie,instant food,5,60,11,no
+1261,30-May,05:30,shastri nagar,milk,dairy,1,20,12,yes
+1262,30-May,06:30,jagriti vihar,bread,bakery,2,30,10,no
+1263,31-May,07:30,modipuram,egg,dairy,3,40,18,yes
+1264,31-May,08:30,ganga nagar,chips,snacks,4,50,14,no
+1265,29-May,09:30,saket,cold drinks,beverage,5,60,11,yes
+1266,29-May,10:30,shastri nagar,rice,grocery,1,20,12,no
+1267,30-May,11:30,jagriti vihar,biscuit,snacks,2,30,10,yes
+1268,30-May,12:30,modipuram,juice,beverage,3,40,18,no
+1269,31-May,13:30,ganga nagar,butter,dairy,4,50,14,yes
+1270,31-May,14:30,saket,maggie,instant food,5,60,11,no
+1271,29-May,15:30,shastri nagar,milk,dairy,1,20,12,yes
+1272,29-May,16:30,jagriti vihar,bread,bakery,2,30,10,no
+1273,30-May,17:30,modipuram,egg,dairy,3,40,18,yes
+1274,30-May,18:30,ganga nagar,chips,snacks,4,50,14,no
+1275,31-May,19:30,saket,cold drinks,beverage,5,60,11,yes
+1276,31-May,20:30,shastri nagar,rice,grocery,1,20,12,no
+1277,29-May,21:30,jagriti vihar,biscuit,snacks,2,30,10,yes
+1278,29-May,22:30,modipuram,juice,beverage,3,40,18,no
+1279,30-May,23:30,ganga nagar,butter,dairy,4,50,14,yes
+1280,30-May,00:30,saket,maggie,instant food,5,60,11,no
+1281,31-May,01:30,shastri nagar,milk,dairy,1,20,12,yes
+1282,31-May,02:30,jagriti vihar,bread,bakery,2,30,10,no
+1283,29-May,03:30,modipuram,egg,dairy,3,40,18,yes
+1284,29-May,04:30,ganga nagar,chips,snacks,4,50,14,no
+1285,30-May,05:30,saket,cold drinks,beverage,5,60,11,yes
+1286,30-May,06:30,shastri nagar,rice,grocery,1,20,12,no
+1287,31-May,07:30,jagriti vihar,biscuit,snacks,2,30,10,yes
+1288,31-May,08:30,modipuram,juice,beverage,3,40,18,no
+1289,29-May,09:30,ganga nagar,butter,dairy,4,50,14,yes
+1290,29-May,10:30,saket,maggie,instant food,5,60,11,no
+1291,30-May,11:30,shastri nagar,milk,dairy,1,20,12,yes
+1292,30-May,12:30,jagriti vihar,bread,bakery,2,30,10,no
+1293,31-May,13:30,modipuram,egg,dairy,3,40,18,yes
+1294,31-May,14:30,ganga nagar,chips,snacks,4,50,14,no
+1295,29-May,15:30,saket,cold drinks,beverage,5,60,11,yes
+1296,29-May,16:30,shastri nagar,rice,grocery,1,20,12,no
+1297,30-May,17:30,jagriti vihar,biscuit,snacks,2,30,10,yes
+1298,30-May,18:30,modipuram,juice,beverage,3,40,18,no
+1299,31-May,19:30,ganga nagar,butter,dairy,4,50,14,yes
+1300,31-May,20:30,saket,maggie,instant food,5,60,11,no
+1301,29-May,21:30,shastri nagar,milk,dairy,1,20,12,yes
+1302,29-May,22:30,jagriti vihar,bread,bakery,2,30,10,no
+1303,30-May,23:30,modipuram,egg,dairy,3,40,18,yes
+1304,30-May,00:30,ganga nagar,chips,snacks,4,50,14,no
+1305,31-May,01:30,saket,cold drinks,beverage,5,60,11,yes
+1306,31-May,02:30,shastri nagar,rice,grocery,1,20,12,no
+1307,29-May,03:30,jagriti vihar,biscuit,snacks,2,30,10,yes
+1308,29-May,04:30,modipuram,juice,beverage,3,40,18,no
+1309,30-May,05:30,ganga nagar,butter,dairy,4,50,14,yes
+1310,30-May,06:30,saket,maggie,instant food,5,60,11,no
+1311,31-May,07:30,shastri nagar,milk,dairy,1,20,12,yes
+1312,31-May,08:30,jagriti vihar,bread,bakery,2,30,10,no
+1313,29-May,09:30,modipuram,egg,dairy,3,40,18,yes
+1314,29-May,10:30,ganga nagar,chips,snacks,4,50,14,no
+1315,30-May,11:30,saket,cold drinks,beverage,5,60,11,yes
+1316,30-May,12:30,shastri nagar,rice,grocery,1,20,12,no
+1317,31-May,13:30,jagriti vihar,biscuit,snacks,2,30,10,yes
+1318,31-May,14:30,modipuram,juice,beverage,3,40,18,no
+1319,29-May,15:30,ganga nagar,butter,dairy,4,50,14,yes
+1320,29-May,16:30,saket,maggie,instant food,5,60,11,no
+1321,30-May,17:30,shastri nagar,milk,dairy,1,20,12,yes
+1322,30-May,18:30,jagriti vihar,bread,bakery,2,30,10,no
+1323,31-May,19:30,modipuram,egg,dairy,3,40,18,yes
+1324,31-May,20:30,ganga nagar,chips,snacks,4,50,14,no
+1325,29-May,21:30,saket,cold drinks,beverage,5,60,11,yes
+1326,29-May,22:30,shastri nagar,rice,grocery,1,20,12,no
+1327,30-May,23:30,jagriti vihar,biscuit,snacks,2,30,10,yes
+1328,30-May,00:30,modipuram,juice,beverage,3,40,18,no
+1329,31-May,01:30,ganga nagar,butter,dairy,4,50,14,yes
+1330,31-May,02:30,saket,maggie,instant food,5,60,11,no
+1331,29-May,03:30,shastri nagar,milk,dairy,1,20,12,yes
+1332,29-May,04:30,jagriti vihar,bread,bakery,2,30,10,no
+1333,30-May,05:30,modipuram,egg,dairy,3,40,18,yes
+1334,30-May,06:30,ganga nagar,chips,snacks,4,50,14,no
+1335,31-May,07:30,saket,cold drinks,beverage,5,60,11,yes
+1336,31-May,08:30,shastri nagar,rice,grocery,1,20,12,no
+1337,29-May,09:30,jagriti vihar,biscuit,snacks,2,30,10,yes
+1338,29-May,10:30,modipuram,juice,beverage,3,40,18,no
+1339,30-May,11:30,ganga nagar,butter,dairy,4,50,14,yes
+1340,30-May,12:30,saket,maggie,instant food,5,60,11,no
+1341,31-May,13:30,shastri nagar,milk,dairy,1,20,12,yes
+1342,31-May,14:30,jagriti vihar,bread,bakery,2,30,10,no
+1343,29-May,15:30,modipuram,egg,dairy,3,40,18,yes
+1344,29-May,16:30,ganga nagar,chips,snacks,4,50,14,no
+1345,30-May,17:30,saket,cold drinks,beverage,5,60,11,yes
+1346,30-May,18:30,shastri nagar,rice,grocery,1,20,12,no
+1347,31-May,19:30,jagriti vihar,biscuit,snacks,2,30,10,yes
+1348,31-May,20:30,modipuram,juice,beverage,3,40,18,no
+1349,29-May,21:30,ganga nagar,butter,dairy,4,50,14,yes
+1350,29-May,22:30,saket,maggie,instant food,5,60,11,no
+1351,30-May,23:30,shastri nagar,milk,dairy,1,20,12,yes
+1352,30-May,00:30,jagriti vihar,bread,bakery,2,30,10,no
+1353,31-May,01:30,modipuram,egg,dairy,3,40,18,yes
+1354,31-May,02:30,ganga nagar,chips,snacks,4,50,14,no
+1355,29-May,03:30,saket,cold drinks,beverage,5,60,11,yes
+1356,29-May,04:30,shastri nagar,rice,grocery,1,20,12,no
+1357,30-May,05:30,jagriti vihar,biscuit,snacks,2,30,10,yes
+1358,30-May,06:30,modipuram,juice,beverage,3,40,18,no
+1359,31-May,07:30,ganga nagar,butter,dairy,4,50,14,yes
+1360,31-May,08:30,saket,maggie,instant food,5,60,11,no
+1361,29-May,09:30,shastri nagar,milk,dairy,1,20,12,yes
+1362,29-May,10:30,jagriti vihar,bread,bakery,2,30,10,no
+1363,30-May,11:30,modipuram,egg,dairy,3,40,18,yes
+1364,30-May,12:30,ganga nagar,chips,snacks,4,50,14,no
+1365,31-May,13:30,saket,cold drinks,beverage,5,60,11,yes
+1366,31-May,14:30,shastri nagar,rice,grocery,1,20,12,no
+1367,29-May,15:30,jagriti vihar,biscuit,snacks,2,30,10,yes
+1368,29-May,16:30,modipuram,juice,beverage,3,40,18,no
+1369,30-May,17:30,ganga nagar,butter,dairy,4,50,14,yes
+1370,30-May,18:30,saket,maggie,instant food,5,60,11,no
+1371,31-May,19:30,shastri nagar,milk,dairy,1,20,12,yes
+1372,31-May,20:30,jagriti vihar,bread,bakery,2,30,10,no
+1373,29-May,21:30,modipuram,egg,dairy,3,40,18,yes
+1374,29-May,22:30,ganga nagar,chips,snacks,4,50,14,no
+1375,30-May,23:30,saket,cold drinks,beverage,5,60,11,yes
+1376,30-May,00:30,shastri nagar,rice,grocery,1,20,12,no
+1377,31-May,01:30,jagriti vihar,biscuit,snacks,2,30,10,yes
+1378,31-May,02:30,modipuram,juice,beverage,3,40,18,no
+1379,29-May,03:30,ganga nagar,butter,dairy,4,50,14,yes
+1380,29-May,04:30,saket,maggie,instant food,5,60,11,no
+1381,30-May,05:30,shastri nagar,milk,dairy,1,20,12,yes
+1382,30-May,06:30,jagriti vihar,bread,bakery,2,30,10,no
+1383,31-May,07:30,modipuram,egg,dairy,3,40,18,yes
+1384,31-May,08:30,ganga nagar,chips,snacks,4,50,14,no
+1385,29-May,09:30,saket,cold drinks,beverage,5,60,11,yes
+1386,29-May,10:30,shastri nagar,rice,grocery,1,20,12,no
+1387,30-May,11:30,jagriti vihar,biscuit,snacks,2,30,10,yes
+1388,30-May,12:30,modipuram,juice,beverage,3,40,18,no
+1389,31-May,13:30,ganga nagar,butter,dairy,4,50,14,yes
+1390,31-May,14:30,saket,maggie,instant food,5,60,11,no
+1391,29-May,15:30,shastri nagar,milk,dairy,1,20,12,yes
+1392,29-May,16:30,jagriti vihar,bread,bakery,2,30,10,no
+1393,30-May,17:30,modipuram,egg,dairy,3,40,18,yes
+1394,30-May,18:30,ganga nagar,chips,snacks,4,50,14,no
+1395,31-May,19:30,saket,cold drinks,beverage,5,60,11,yes
+1396,31-May,20:30,shastri nagar,rice,grocery,1,20,12,no
+1397,29-May,21:30,jagriti vihar,biscuit,snacks,2,30,10,yes
+1398,29-May,22:30,modipuram,juice,beverage,3,40,18,no
+1399,30-May,23:30,ganga nagar,butter,dairy,4,50,14,yes
+1400,30-May,00:30,saket,maggie,instant food,5,60,11,no
+1401,31-May,01:30,shastri nagar,milk,dairy,1,20,12,yes
+1402,31-May,02:30,jagriti vihar,bread,bakery,2,30,10,no
+1403,29-May,03:30,modipuram,egg,dairy,3,40,18,yes
+1404,29-May,04:30,ganga nagar,chips,snacks,4,50,14,no
+1405,30-May,05:30,saket,cold drinks,beverage,5,60,11,yes
+1406,30-May,06:30,shastri nagar,rice,grocery,1,20,12,no
+1407,31-May,07:30,jagriti vihar,biscuit,snacks,2,30,10,yes
+1408,31-May,08:30,modipuram,juice,beverage,3,40,18,no
+1409,29-May,09:30,ganga nagar,butter,dairy,4,50,14,yes
+1410,29-May,10:30,saket,maggie,instant food,5,60,11,no
+1411,30-May,11:30,shastri nagar,milk,dairy,1,20,12,yes
+1412,30-May,12:30,jagriti vihar,bread,bakery,2,30,10,no
+1413,31-May,13:30,modipuram,egg,dairy,3,40,18,yes
+1414,31-May,14:30,ganga nagar,chips,snacks,4,50,14,no
+1415,29-May,15:30,saket,cold drinks,beverage,5,60,11,yes
+1416,29-May,16:30,shastri nagar,rice,grocery,1,20,12,no
+1417,30-May,17:30,jagriti vihar,biscuit,snacks,2,30,10,yes
+1418,30-May,18:30,modipuram,juice,beverage,3,40,18,no
+1419,31-May,19:30,ganga nagar,butter,dairy,4,50,14,yes
+1420,31-May,20:30,saket,maggie,instant food,5,60,11,no
+1421,29-May,21:30,shastri nagar,milk,dairy,1,20,12,yes
+1422,29-May,22:30,jagriti vihar,bread,bakery,2,30,10,no
+1423,30-May,23:30,modipuram,egg,dairy,3,40,18,yes
+1424,30-May,00:30,ganga nagar,chips,snacks,4,50,14,no
+1425,31-May,01:30,saket,cold drinks,beverage,5,60,11,yes
+1426,31-May,02:30,shastri nagar,rice,grocery,1,20,12,no
+1427,29-May,03:30,jagriti vihar,biscuit,snacks,2,30,10,yes
+1428,29-May,04:30,modipuram,juice,beverage,3,40,18,no
+1429,30-May,05:30,ganga nagar,butter,dairy,4,50,14,yes
+1430,30-May,06:30,saket,maggie,instant food,5,60,11,no
+1431,31-May,07:30,shastri nagar,milk,dairy,1,20,12,yes
+1432,31-May,08:30,jagriti vihar,bread,bakery,2,30,10,no
+1433,29-May,09:30,modipuram,egg,dairy,3,40,18,yes
+1434,29-May,10:30,ganga nagar,chips,snacks,4,50,14,no
+1435,30-May,11:30,saket,cold drinks,beverage,5,60,11,yes
+1436,30-May,12:30,shastri nagar,rice,grocery,1,20,12,no
+1437,31-May,13:30,jagriti vihar,biscuit,snacks,2,30,10,yes
+1438,31-May,14:30,modipuram,juice,beverage,3,40,18,no
+1439,29-May,15:30,ganga nagar,butter,dairy,4,50,14,yes
+1440,29-May,16:30,saket,maggie,instant food,5,60,11,no
+1441,30-May,17:30,shastri nagar,milk,dairy,1,20,12,yes
+1442,30-May,18:30,jagriti vihar,bread,bakery,2,30,10,no
+1443,31-May,19:30,modipuram,egg,dairy,3,40,18,yes
+1444,31-May,20:30,ganga nagar,chips,snacks,4,50,14,no
+1445,29-May,21:30,saket,cold drinks,beverage,5,60,11,yes
+1446,29-May,22:30,shastri nagar,rice,grocery,1,20,12,no
+1447,30-May,23:30,jagriti vihar,biscuit,snacks,2,30,10,yes
+1448,30-May,00:30,modipuram,juice,beverage,3,40,18,no
+1449,31-May,01:30,ganga nagar,butter,dairy,4,50,14,yes
+1450,31-May,02:30,saket,maggie,instant food,5,60,11,no
+1451,29-May,03:30,shastri nagar,milk,dairy,1,20,12,yes
+1452,29-May,04:30,jagriti vihar,bread,bakery,2,30,10,no
+1453,30-May,05:30,modipuram,egg,dairy,3,40,18,yes
+1454,30-May,06:30,ganga nagar,chips,snacks,4,50,14,no
+1455,31-May,07:30,saket,cold drinks,beverage,5,60,11,yes
+1456,31-May,08:30,shastri nagar,rice,grocery,1,20,12,no
+1457,29-May,09:30,jagriti vihar,biscuit,snacks,2,30,10,yes
+1458,29-May,10:30,modipuram,juice,beverage,3,40,18,no
+1459,30-May,11:30,ganga nagar,butter,dairy,4,50,14,yes
+1460,30-May,12:30,saket,maggie,instant food,5,60,11,no
+1461,31-May,13:30,shastri nagar,milk,dairy,1,20,12,yes
+1462,31-May,14:30,jagriti vihar,bread,bakery,2,30,10,no
+1463,29-May,15:30,modipuram,egg,dairy,3,40,18,yes
+1464,29-May,16:30,ganga nagar,chips,snacks,4,50,14,no
+1465,30-May,17:30,saket,cold drinks,beverage,5,60,11,yes
+1466,30-May,18:30,shastri nagar,rice,grocery,1,20,12,no
+1467,31-May,19:30,jagriti vihar,biscuit,snacks,2,30,10,yes
+1468,31-May,20:30,modipuram,juice,beverage,3,40,18,no
+1469,29-May,21:30,ganga nagar,butter,dairy,4,50,14,yes
+1470,29-May,22:30,saket,maggie,instant food,5,60,11,no
+1471,30-May,23:30,shastri nagar,milk,dairy,1,20,12,yes
+1472,30-May,00:30,jagriti vihar,bread,bakery,2,30,10,no
+1473,31-May,01:30,modipuram,egg,dairy,3,40,18,yes
+1474,31-May,02:30,ganga nagar,chips,snacks,4,50,14,no
+1475,29-May,03:30,saket,cold drinks,beverage,5,60,11,yes
+1476,29-May,04:30,shastri nagar,rice,grocery,1,20,12,no
+1477,30-May,05:30,jagriti vihar,biscuit,snacks,2,30,10,yes
+1478,30-May,06:30,modipuram,juice,beverage,3,40,18,no
+1479,31-May,07:30,ganga nagar,butter,dairy,4,50,14,yes
+1480,31-May,08:30,saket,maggie,instant food,5,60,11,no
+1481,29-May,09:30,shastri nagar,milk,dairy,1,20,11,yes
+1482,29-May,10:30,jagriti vihar,bread,bakery,2,30,12,no
+1483,30-May,11:30,modipuram,egg,dairy,3,40,10,yes
+1484,30-May,12:30,ganga nagar,chips,snacks,4,50,18,no
+1485,31-May,13:30,saket,cold drinks,beverage,5,60,14,yes
+1486,31-May,14:30,shastri nagar,rice,grocery,1,20,11,no
+1487,29-May,15:30,jagriti vihar,biscuit,snacks,2,30,12,yes
+1488,29-May,16:30,modipuram,juice,beverage,3,40,10,no
+1489,30-May,17:30,ganga nagar,butter,dairy,4,50,18,yes
+1490,30-May,18:30,saket,maggie,instant food,5,60,14,no
+1491,31-May,19:30,shastri nagar,milk,dairy,1,20,11,yes
+1492,31-May,20:30,jagriti vihar,bread,bakery,2,30,12,no
+1493,29-May,21:30,modipuram,egg,dairy,3,40,10,yes
+1494,29-May,22:30,ganga nagar,chips,snacks,4,50,18,no
+1495,30-May,23:30,saket,cold drinks,beverage,5,60,14,yes
+1496,30-May,00:30,shastri nagar,rice,grocery,1,20,11,no
+1497,31-May,01:30,jagriti vihar,biscuit,snacks,2,30,12,yes
+1498,31-May,02:30,modipuram,juice,beverage,3,40,10,no
+1499,29-May,03:30,ganga nagar,butter,dairy,4,50,18,yes
+1500,29-May,04:30,saket,maggie,instant food,5,60,14,no
